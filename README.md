@@ -11,7 +11,7 @@ Um curso de SASS feito do professor Matheus Battisti com responsividade do naveg
 
 Foram aplicadas algumas técnicas de HTML e SASS.
 
-Para funcionar voce deve rodar o comando no CMD na caminho da pasta: <br>
+Para funcionar voce deve rodar o comando no CMD no caminho da pasta: <br>
 sass --watch sass/styles.sass:css/styles.css
 
-E abrir o Visual Studio Code rodar a extensão Live Server no index.html para simular um servidor e assim abrir no navegador a página web.
+E abrir o Visual Studio Code e rodar a extensão Live Server no index.html para simular um servidor e assim abrir no navegador a página web.
